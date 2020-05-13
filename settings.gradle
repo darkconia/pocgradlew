@@ -1,0 +1,2 @@
+rootProject.name='POCGradlew'
+include ':app'
